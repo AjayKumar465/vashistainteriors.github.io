@@ -344,6 +344,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .link-bd-btm {
+	color: white;
 	position: relative;
 	display: inline-flex;
 	justify-content: center;
